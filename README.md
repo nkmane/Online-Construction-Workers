@@ -1,4 +1,4 @@
-# 🏗️ Online Construction Services (Mukadam System)
+# 🏗️ Online Construction Workers (Mukadam System)
 
 A BCA final-year project built using .NET (C#), MySQL & Visual Studio 2010. Helps customers connect with workers through a Mukadam.
 
